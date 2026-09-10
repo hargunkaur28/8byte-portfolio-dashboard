@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# AI coding-agent instructions
+AGENTS.md
+CLAUDE.md
+.agents/
+
+# local assignment data files
+*.xlsx
+F9001561_ADDBA737E8_B72562937A.xlsx
